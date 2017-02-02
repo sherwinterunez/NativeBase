@@ -28,9 +28,11 @@ import FooterTab from './Components/Widgets/FooterTab';
 import Tab from './Components/Widgets/Tab';
 import Fab from './Components/Widgets/Fab';
 import Thumbnail from './Components/Widgets/Thumbnail';
+import Gravatar from './Components/Widgets/Gravatar';
 import CheckBox from './Components/Widgets/Checkbox';
 import Radio from './Components/Widgets/Radio';
 import Card from './Components/Widgets/Card';
+import Subtitle from './Components/Widgets/Subtitle';
 import Badge from './Components/Widgets/Badge';
 import Spinner from './Components/Widgets/Spinner';
 // import ProgressBar from './Components/Widgets/ProgressBar';
@@ -63,6 +65,7 @@ module.exports = {
   Textarea: Textarea,
   Icon: Icon,
   Thumbnail: Thumbnail,
+  Gravatar: Gravatar,
   Card: Card,
   CardSwiper: CardSwiper,
   DeckSwiper: DeckSwiper,
